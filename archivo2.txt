@@ -1,0 +1,6 @@
+    1  sudo yum install git -y
+    2  clear
+    3  exit
+    4  ls
+    5  ls -laR > archivo1.txt
+    6  history > archivo2.txt

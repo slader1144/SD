@@ -1,0 +1,1636 @@
+.:
+total 16
+drwxr-xr-x 1 mpirun mpirun   96 Nov  2 02:39 .
+drwxr-xr-x 1 root   root     20 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun  220 Nov  2 00:22 .bash_logout
+-rw-r--r-- 1 mpirun mpirun 3771 Nov  2 00:22 .bashrc
+drwxr-xr-x 1 mpirun mpirun   45 Nov  2 00:40 .cache
+drwxrwxr-x 7 mpirun mpirun  119 Nov  2 01:07 .git
+drwx------ 4 mpirun mpirun   28 Nov  2 00:22 .local
+drwxr-xr-x 1 mpirun mpirun   29 Nov  2 00:23 .openmpi
+-rw-r--r-- 1 mpirun mpirun  807 Nov  2 00:22 .profile
+drwxr-xr-x 2 root   root   4096 Nov  2 00:57 .rpmdb
+drwxr-xr-x 1 mpirun mpirun   25 Nov  2 02:27 .ssh
+-rw-rw-r-- 1 mpirun mpirun    0 Nov  2 02:40 archivo1.txt
+drwxrwxr-x 5 mpirun mpirun  139 Nov  2 01:07 hpc.docker
+
+./.cache:
+total 0
+drwxr-xr-x 1 mpirun mpirun 45 Nov  2 00:40 .
+drwxr-xr-x 1 mpirun mpirun 96 Nov  2 02:39 ..
+-rw-r--r-- 1 mpirun mpirun  0 Nov  2 00:40 motd.legal-displayed
+drwxr-xr-x 1 mpirun mpirun 18 Nov  2 00:22 pip
+
+./.cache/pip:
+total 0
+drwxr-xr-x 1 mpirun mpirun  18 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun  45 Nov  2 00:40 ..
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 http
+drwxr-xr-x 2 mpirun mpirun  70 Nov  2 00:22 selfcheck
+drwxr-xr-x 3 mpirun mpirun  16 Nov  2 00:22 wheels
+
+./.cache/pip/http:
+total 0
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun  18 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 0
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 2
+drwxr-xr-x 1 mpirun mpirun  33 Nov  2 01:55 4
+drwxrwxr-x 4 mpirun mpirun  24 Nov  2 01:55 5
+drwxrwxr-x 4 mpirun mpirun  24 Nov  2 01:55 6
+drwxrwxr-x 4 mpirun mpirun  24 Nov  2 01:55 7
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 01:55 8
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 9
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 a
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 b
+drwxr-xr-x 4 mpirun mpirun  24 Nov  2 00:22 c
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 d
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 e
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 f
+
+./.cache/pip/http/0:
+total 0
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 4
+
+./.cache/pip/http/0/4:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 1
+
+./.cache/pip/http/0/4/1:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 8
+
+./.cache/pip/http/0/4/1/8:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 70 Nov  2 01:55 c
+
+./.cache/pip/http/0/4/1/8/c:
+total 104
+drwxr-xr-x 1 mpirun mpirun     70 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun     15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 103579 Nov  2 01:55 0418c83b80f7f7bfaec2738bfbbee53d2c1562196c0781702f6eddc8
+
+./.cache/pip/http/2:
+total 0
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 f
+
+./.cache/pip/http/2/f:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 e
+
+./.cache/pip/http/2/f/e:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 f
+
+./.cache/pip/http/2/f/e/f:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 5
+
+./.cache/pip/http/2/f/e/f/5:
+total 4
+drwxr-xr-x 2 mpirun mpirun   70 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun   15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 1716 Nov  2 00:22 2fef50e0373914ce8faf2e0a5008d919a35e9a6905e178838f68b860
+
+./.cache/pip/http/4:
+total 0
+drwxr-xr-x 1 mpirun mpirun  33 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 4
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 7
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 d
+
+./.cache/pip/http/4/4:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 33 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 e
+
+./.cache/pip/http/4/4/e:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 5
+
+./.cache/pip/http/4/4/e/5:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 b
+
+./.cache/pip/http/4/4/e/5/b:
+total 8
+drwxrwxr-x 2 mpirun mpirun   70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun   15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 8043 Nov  2 01:55 44e5b11a6caa92636d8ccfe658d420ba4ed8f67f7f4e835b214255aa
+
+./.cache/pip/http/4/7:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 33 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 1
+
+./.cache/pip/http/4/7/1:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 1
+
+./.cache/pip/http/4/7/1/1:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 7
+
+./.cache/pip/http/4/7/1/1/7:
+total 44
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 41722 Nov  2 01:55 471171c5a35ed965fa0578ac0dab5f7d1052e02f8fa6e706d6a9d088
+
+./.cache/pip/http/4/d:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 33 Nov  2 01:55 ..
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 2
+
+./.cache/pip/http/4/d/2:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 7
+
+./.cache/pip/http/4/d/2/7:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 70 Nov  2 01:55 2
+
+./.cache/pip/http/4/d/2/7/2:
+total 12
+drwxr-xr-x 1 mpirun mpirun    70 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun    15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 11252 Nov  2 01:55 4d272e6453941ce8b0a37a02cdb1685fc612c33441fa74691fb40656
+
+./.cache/pip/http/5:
+total 0
+drwxrwxr-x 4 mpirun mpirun  24 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 7
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 f
+
+./.cache/pip/http/5/7:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 4 mpirun mpirun 24 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 8
+
+./.cache/pip/http/5/7/8:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 b
+
+./.cache/pip/http/5/7/8/b:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 7
+
+./.cache/pip/http/5/7/8/b/7:
+total 76
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 74268 Nov  2 01:55 578b71402ea62e916644140eede55c9beb7dab0a37d8079357a1a9f6
+
+./.cache/pip/http/5/f:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 4 mpirun mpirun 24 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 5
+
+./.cache/pip/http/5/f/5:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 c
+
+./.cache/pip/http/5/f/5/c:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 c
+
+./.cache/pip/http/5/f/5/c/c:
+total 84
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 84018 Nov  2 01:55 5f5ccd5f5da5103ed892f336b70b899af3b78e72f1c1f8bceeba38f5
+
+./.cache/pip/http/6:
+total 0
+drwxrwxr-x 4 mpirun mpirun  24 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 6
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 8
+
+./.cache/pip/http/6/6:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 4 mpirun mpirun 24 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 3
+
+./.cache/pip/http/6/6/3:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 9
+
+./.cache/pip/http/6/6/3/9:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 4
+
+./.cache/pip/http/6/6/3/9/4:
+total 20992
+drwxrwxr-x 2 mpirun mpirun       70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun       15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 21494262 Nov  2 01:55 66394e99ed23ef0d0b2a8349cbab8cfcdb0ec816c4d767d3ad116448
+
+./.cache/pip/http/6/8:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 4 mpirun mpirun 24 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 8
+
+./.cache/pip/http/6/8/8:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 1
+
+./.cache/pip/http/6/8/8/1:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 6
+
+./.cache/pip/http/6/8/8/1/6:
+total 68
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 68698 Nov  2 01:55 6881695d9110d18d8c52035757e6acf3f93dfb4bfa0b32afadf592b1
+
+./.cache/pip/http/7:
+total 0
+drwxrwxr-x 4 mpirun mpirun  24 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 3
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 4
+
+./.cache/pip/http/7/3:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 4 mpirun mpirun 24 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 c
+
+./.cache/pip/http/7/3/c:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 3
+
+./.cache/pip/http/7/3/c/3:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 a
+
+./.cache/pip/http/7/3/c/3/a:
+total 24
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 24520 Nov  2 01:55 73c3a780e17f5e947c788a9cb111cdef096f43dbe925001283e27a77
+
+./.cache/pip/http/7/4:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 4 mpirun mpirun 24 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 f
+
+./.cache/pip/http/7/4/f:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 0
+
+./.cache/pip/http/7/4/f/0:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 9
+
+./.cache/pip/http/7/4/f/0/9:
+total 84
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 85901 Nov  2 01:55 74f09646c419db58e72289c9d9958b156e21bab1ea0f1191be0fdd34
+
+./.cache/pip/http/8:
+total 0
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 4
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 f
+
+./.cache/pip/http/8/4:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 01:55 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 1
+
+./.cache/pip/http/8/4/1:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 3
+
+./.cache/pip/http/8/4/1/3:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 2
+
+./.cache/pip/http/8/4/1/3/2:
+total 572
+drwxr-xr-x 2 mpirun mpirun     70 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun     15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 584341 Nov  2 00:22 84132eed49c56076ca56758affa5419073d2fb7e31c3c2d4840079e9
+
+./.cache/pip/http/8/f:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 2
+
+./.cache/pip/http/8/f/2:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 e
+
+./.cache/pip/http/8/f/2/e:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 8
+
+./.cache/pip/http/8/f/2/e/8:
+total 20
+drwxrwxr-x 2 mpirun mpirun    70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun    15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 19919 Nov  2 01:55 8f2e878ff9063ac9f42b10155f4056e0988bd7f65b0390393bfa406f
+
+./.cache/pip/http/9:
+total 0
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 8
+
+./.cache/pip/http/9/8:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 6
+
+./.cache/pip/http/9/8/6:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 5
+
+./.cache/pip/http/9/8/6/5:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 3
+
+./.cache/pip/http/9/8/6/5/3:
+total 12
+drwxr-xr-x 2 mpirun mpirun    70 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun    15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 10136 Nov  2 00:22 98653a280a2805656b5cf21c326f493463faf932ff154270699fe65a
+
+./.cache/pip/http/a:
+total 0
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxr-xr-x 1 mpirun mpirun  15 Nov  2 00:22 1
+
+./.cache/pip/http/a/1:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 9
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 a
+
+./.cache/pip/http/a/1/9:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 5
+
+./.cache/pip/http/a/1/9/5:
+total 0
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 1 mpirun mpirun 70 Nov  2 01:55 3
+
+./.cache/pip/http/a/1/9/5/3:
+total 20
+drwxr-xr-x 1 mpirun mpirun    70 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun    15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 18833 Nov  2 01:55 a19537d3cf37c122db841d6fe4cd322bc10d1a558bb00d146b85cb9a
+
+./.cache/pip/http/a/1/a:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 e
+
+./.cache/pip/http/a/1/a/e:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 3
+
+./.cache/pip/http/a/1/a/e/3:
+total 80
+drwxr-xr-x 2 mpirun mpirun    70 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun    15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 79626 Nov  2 00:22 a1ae3d59ac14e52c207cd304c9da8a9524ce90e9ee369b1005ff9976
+
+./.cache/pip/http/b:
+total 0
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 9
+
+./.cache/pip/http/b/9:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 d
+
+./.cache/pip/http/b/9/d:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 7
+
+./.cache/pip/http/b/9/d/7:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 2
+
+./.cache/pip/http/b/9/d/7/2:
+total 85912
+drwxrwxr-x 2 mpirun mpirun       70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun       15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 87970170 Nov  2 01:55 b9d72f6405e024800bed7bc7a4e93225a713a8dd348cb4dbbf9f0b46
+
+./.cache/pip/http/c:
+total 0
+drwxr-xr-x 4 mpirun mpirun  24 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 5
+drwxr-xr-x 3 mpirun mpirun  15 Nov  2 00:22 9
+
+./.cache/pip/http/c/5:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 4 mpirun mpirun 24 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 1
+
+./.cache/pip/http/c/5/1:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 4
+
+./.cache/pip/http/c/5/1/4:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 3
+
+./.cache/pip/http/c/5/1/4/3:
+total 2396
+drwxr-xr-x 2 mpirun mpirun      70 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun      15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 2449516 Nov  2 00:22 c5143be3aabd47e5b72e5b053744cc21f748f871850e691762e9d29c
+
+./.cache/pip/http/c/9:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 4 mpirun mpirun 24 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 1
+
+./.cache/pip/http/c/9/1:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 5
+
+./.cache/pip/http/c/9/1/5:
+total 0
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 15 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 1
+
+./.cache/pip/http/c/9/1/5/1:
+total 36
+drwxr-xr-x 2 mpirun mpirun    70 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun    15 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 36015 Nov  2 00:22 c915186bed19af5c2add5f38006cbecca9fd97011a234853622f3103
+
+./.cache/pip/http/d:
+total 0
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 2
+
+./.cache/pip/http/d/2:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 2
+
+./.cache/pip/http/d/2/2:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 6
+
+./.cache/pip/http/d/2/2/6:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 5
+
+./.cache/pip/http/d/2/2/6/5:
+total 1488
+drwxrwxr-x 2 mpirun mpirun      70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun      15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 1522950 Nov  2 01:55 d2265b415d13fdfaed026f9dc8b8b762c56c373170edcbce6c2efc6c
+
+./.cache/pip/http/e:
+total 0
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 5
+
+./.cache/pip/http/e/5:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 1
+
+./.cache/pip/http/e/5/1:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 b
+
+./.cache/pip/http/e/5/1/b:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 e
+
+./.cache/pip/http/e/5/1/b/e:
+total 8
+drwxrwxr-x 2 mpirun mpirun   70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun   15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 4187 Nov  2 01:55 e51bec58ff904f95a028ee560477df5d0f988501997d4165f3fd6721
+
+./.cache/pip/http/f:
+total 0
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 .
+drwxr-xr-x 1 mpirun mpirun 105 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun  15 Nov  2 01:55 d
+
+./.cache/pip/http/f/d:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 8
+
+./.cache/pip/http/f/d/8:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 4
+
+./.cache/pip/http/f/d/8/4:
+total 0
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun 15 Nov  2 01:55 ..
+drwxrwxr-x 2 mpirun mpirun 70 Nov  2 01:55 c
+
+./.cache/pip/http/f/d/8/4/c:
+total 4
+drwxrwxr-x 2 mpirun mpirun   70 Nov  2 01:55 .
+drwxrwxr-x 3 mpirun mpirun   15 Nov  2 01:55 ..
+-rw------- 1 mpirun mpirun 3181 Nov  2 01:55 fd84c46b9ca35d1b3dffcde8cf808cf28a8ce0d20a74e8bc1c4b59f8
+
+./.cache/pip/selfcheck:
+total 4
+drwxr-xr-x 2 mpirun mpirun 70 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 18 Nov  2 00:22 ..
+-rw------- 1 mpirun mpirun 74 Nov  2 00:22 241e69162522ccf5846a2f42ebc24b17464915a155679666b89a9f31
+
+./.cache/pip/wheels:
+total 0
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 18 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 e6
+
+./.cache/pip/wheels/e6:
+total 0
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 fc
+
+./.cache/pip/wheels/e6/fc:
+total 0
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 ..
+drwxr-xr-x 3 mpirun mpirun 64 Nov  2 00:22 99
+
+./.cache/pip/wheels/e6/fc/99:
+total 0
+drwxr-xr-x 3 mpirun mpirun 64 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun 16 Nov  2 00:22 ..
+drwxr-xr-x 2 mpirun mpirun 55 Nov  2 00:23 e2f1c83800e46f8530439054fd670d427315ea91868d1df912
+
+./.cache/pip/wheels/e6/fc/99/e2f1c83800e46f8530439054fd670d427315ea91868d1df912:
+total 884
+drwxr-xr-x 2 mpirun mpirun     55 Nov  2 00:23 .
+drwxr-xr-x 3 mpirun mpirun     64 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun 904578 Nov  2 00:23 mpi4py-3.1.1-cp27-cp27mu-linux_x86_64.whl
+
+./.git:
+total 12
+drwxrwxr-x 7 mpirun mpirun 119 Nov  2 01:07 .
+drwxr-xr-x 1 mpirun mpirun  96 Nov  2 02:39 ..
+-rw-rw-r-- 1 mpirun mpirun  23 Nov  2 01:07 HEAD
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 branches
+-rw-rw-r-- 1 mpirun mpirun  92 Nov  2 01:07 config
+-rw-rw-r-- 1 mpirun mpirun  73 Nov  2 01:07 description
+drwxrwxr-x 2 mpirun mpirun 301 Nov  2 01:07 hooks
+drwxrwxr-x 2 mpirun mpirun  21 Nov  2 01:07 info
+drwxrwxr-x 4 mpirun mpirun  30 Nov  2 01:07 objects
+drwxrwxr-x 4 mpirun mpirun  31 Nov  2 01:07 refs
+
+./.git/branches:
+total 0
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 .
+drwxrwxr-x 7 mpirun mpirun 119 Nov  2 01:07 ..
+
+./.git/hooks:
+total 48
+drwxrwxr-x 2 mpirun mpirun  301 Nov  2 01:07 .
+drwxrwxr-x 7 mpirun mpirun  119 Nov  2 01:07 ..
+-rwxrwxr-x 1 mpirun mpirun  478 Nov  2 01:07 applypatch-msg.sample
+-rwxrwxr-x 1 mpirun mpirun  896 Nov  2 01:07 commit-msg.sample
+-rwxrwxr-x 1 mpirun mpirun 3327 Nov  2 01:07 fsmonitor-watchman.sample
+-rwxrwxr-x 1 mpirun mpirun  189 Nov  2 01:07 post-update.sample
+-rwxrwxr-x 1 mpirun mpirun  424 Nov  2 01:07 pre-applypatch.sample
+-rwxrwxr-x 1 mpirun mpirun 1642 Nov  2 01:07 pre-commit.sample
+-rwxrwxr-x 1 mpirun mpirun 1348 Nov  2 01:07 pre-push.sample
+-rwxrwxr-x 1 mpirun mpirun 4898 Nov  2 01:07 pre-rebase.sample
+-rwxrwxr-x 1 mpirun mpirun  544 Nov  2 01:07 pre-receive.sample
+-rwxrwxr-x 1 mpirun mpirun 1492 Nov  2 01:07 prepare-commit-msg.sample
+-rwxrwxr-x 1 mpirun mpirun 3610 Nov  2 01:07 update.sample
+
+./.git/info:
+total 4
+drwxrwxr-x 2 mpirun mpirun  21 Nov  2 01:07 .
+drwxrwxr-x 7 mpirun mpirun 119 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 240 Nov  2 01:07 exclude
+
+./.git/objects:
+total 0
+drwxrwxr-x 4 mpirun mpirun  30 Nov  2 01:07 .
+drwxrwxr-x 7 mpirun mpirun 119 Nov  2 01:07 ..
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 info
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 pack
+
+./.git/objects/info:
+total 0
+drwxrwxr-x 2 mpirun mpirun  6 Nov  2 01:07 .
+drwxrwxr-x 4 mpirun mpirun 30 Nov  2 01:07 ..
+
+./.git/objects/pack:
+total 0
+drwxrwxr-x 2 mpirun mpirun  6 Nov  2 01:07 .
+drwxrwxr-x 4 mpirun mpirun 30 Nov  2 01:07 ..
+
+./.git/refs:
+total 0
+drwxrwxr-x 4 mpirun mpirun  31 Nov  2 01:07 .
+drwxrwxr-x 7 mpirun mpirun 119 Nov  2 01:07 ..
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 heads
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 tags
+
+./.git/refs/heads:
+total 0
+drwxrwxr-x 2 mpirun mpirun  6 Nov  2 01:07 .
+drwxrwxr-x 4 mpirun mpirun 31 Nov  2 01:07 ..
+
+./.git/refs/tags:
+total 0
+drwxrwxr-x 2 mpirun mpirun  6 Nov  2 01:07 .
+drwxrwxr-x 4 mpirun mpirun 31 Nov  2 01:07 ..
+
+./.local:
+total 0
+drwx------ 4 mpirun mpirun 28 Nov  2 00:22 .
+drwxr-xr-x 1 mpirun mpirun 96 Nov  2 02:39 ..
+drwxr-xr-x 2 mpirun mpirun 50 Nov  2 00:22 bin
+drwx------ 3 mpirun mpirun 23 Nov  2 00:22 lib
+
+./.local/bin:
+total 8
+drwxr-xr-x 2 mpirun mpirun  50 Nov  2 00:22 .
+drwx------ 4 mpirun mpirun  28 Nov  2 00:22 ..
+-rwxr-xr-x 1 mpirun mpirun 229 Nov  2 00:22 easy_install
+-rwxr-xr-x 1 mpirun mpirun 229 Nov  2 00:22 easy_install-2.7
+
+./.local/lib:
+total 0
+drwx------ 3 mpirun mpirun 23 Nov  2 00:22 .
+drwx------ 4 mpirun mpirun 28 Nov  2 00:22 ..
+drwx------ 3 mpirun mpirun 27 Nov  2 00:22 python2.7
+
+./.local/lib/python2.7:
+total 0
+drwx------ 3 mpirun mpirun  27 Nov  2 00:22 .
+drwx------ 3 mpirun mpirun  23 Nov  2 00:22 ..
+drwx------ 7 mpirun mpirun 171 Nov  2 00:23 site-packages
+
+./.local/lib/python2.7/site-packages:
+total 16
+drwx------ 7 mpirun mpirun  171 Nov  2 00:23 .
+drwx------ 3 mpirun mpirun   27 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun  126 Nov  2 00:22 easy_install.py
+-rw-r--r-- 1 mpirun mpirun  330 Nov  2 00:22 easy_install.pyc
+drwxr-xr-x 6 mpirun mpirun 4096 Nov  2 00:23 mpi4py
+drwxr-xr-x 2 mpirun mpirun  123 Nov  2 00:23 mpi4py-3.1.1.dist-info
+drwxr-xr-x 4 mpirun mpirun  117 Nov  2 00:22 pkg_resources
+drwxr-xr-x 5 mpirun mpirun 4096 Nov  2 00:22 setuptools
+drwxr-xr-x 2 mpirun mpirun  187 Nov  2 00:22 setuptools-44.1.1.dist-info
+
+./.local/lib/python2.7/site-packages/mpi4py:
+total 3652
+drwxr-xr-x 6 mpirun mpirun    4096 Nov  2 00:23 .
+drwx------ 7 mpirun mpirun     171 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun    3964 Nov  2 00:23 MPI.pxd
+-rw-r--r-- 1 mpirun mpirun   51451 Nov  2 00:23 MPI.pyi
+-rwxr-xr-x 1 mpirun mpirun 3504632 Nov  2 00:23 MPI.so
+-rw-r--r-- 1 mpirun mpirun      56 Nov  2 00:23 __init__.pxd
+-rw-r--r-- 1 mpirun mpirun    5493 Nov  2 00:23 __init__.py
+-rw-r--r-- 1 mpirun mpirun    6282 Nov  2 00:23 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun     793 Nov  2 00:23 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun     165 Nov  2 00:23 __main__.py
+-rw-r--r-- 1 mpirun mpirun     319 Nov  2 00:23 __main__.pyc
+-rw-r--r-- 1 mpirun mpirun      22 Nov  2 00:23 __main__.pyi
+-rw-r--r-- 1 mpirun mpirun    6310 Nov  2 00:23 bench.py
+-rw-r--r-- 1 mpirun mpirun    5547 Nov  2 00:23 bench.pyc
+-rw-r--r-- 1 mpirun mpirun     351 Nov  2 00:23 bench.pyi
+-rw-r--r-- 1 mpirun mpirun     774 Nov  2 00:23 dl.pyi
+-rwxr-xr-x 1 mpirun mpirun   29400 Nov  2 00:23 dl.so
+drwxr-xr-x 2 mpirun mpirun    4096 Nov  2 00:23 futures
+drwxr-xr-x 3 mpirun mpirun      20 Nov  2 00:23 include
+drwxr-xr-x 2 mpirun mpirun      79 Nov  2 00:23 lib-pmpi
+-rw-r--r-- 1 mpirun mpirun   44966 Nov  2 00:23 libmpi.pxd
+-rw-r--r-- 1 mpirun mpirun     132 Nov  2 00:23 mpi.cfg
+-rw-r--r-- 1 mpirun mpirun      27 Nov  2 00:23 py.typed
+-rw-r--r-- 1 mpirun mpirun    7727 Nov  2 00:23 run.py
+-rw-r--r-- 1 mpirun mpirun    7771 Nov  2 00:23 run.pyc
+-rw-r--r-- 1 mpirun mpirun     205 Nov  2 00:23 run.pyi
+drwxr-xr-x 2 mpirun mpirun     162 Nov  2 00:23 util
+
+./.local/lib/python2.7/site-packages/mpi4py/futures:
+total 236
+drwxr-xr-x 2 mpirun mpirun  4096 Nov  2 00:23 .
+drwxr-xr-x 6 mpirun mpirun  4096 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun   520 Nov  2 00:23 __init__.py
+-rw-r--r-- 1 mpirun mpirun   786 Nov  2 00:23 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   613 Nov  2 00:23 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun  2267 Nov  2 00:23 __main__.py
+-rw-r--r-- 1 mpirun mpirun  2978 Nov  2 00:23 __main__.pyc
+-rw-r--r-- 1 mpirun mpirun    24 Nov  2 00:23 __main__.pyi
+-rw-r--r-- 1 mpirun mpirun 22800 Nov  2 00:23 _base.py
+-rw-r--r-- 1 mpirun mpirun 26365 Nov  2 00:23 _base.pyc
+-rw-r--r-- 1 mpirun mpirun  1291 Nov  2 00:23 _core.py
+-rw-r--r-- 1 mpirun mpirun  1338 Nov  2 00:23 _core.pyc
+-rw-r--r-- 1 mpirun mpirun   683 Nov  2 00:23 _core.pyi
+-rw-r--r-- 1 mpirun mpirun 29171 Nov  2 00:23 _lib.py
+-rw-r--r-- 1 mpirun mpirun 36672 Nov  2 00:23 _lib.pyc
+-rw-r--r-- 1 mpirun mpirun  5117 Nov  2 00:23 _lib.pyi
+-rw-r--r-- 1 mpirun mpirun  4901 Nov  2 00:23 aplus.py
+-rw-r--r-- 1 mpirun mpirun  5574 Nov  2 00:23 aplus.pyc
+-rw-r--r-- 1 mpirun mpirun   865 Nov  2 00:23 aplus.pyi
+-rw-r--r-- 1 mpirun mpirun 13050 Nov  2 00:23 pool.py
+-rw-r--r-- 1 mpirun mpirun 12074 Nov  2 00:23 pool.pyc
+-rw-r--r-- 1 mpirun mpirun  2118 Nov  2 00:23 pool.pyi
+-rw-r--r-- 1 mpirun mpirun   281 Nov  2 00:23 server.py
+-rw-r--r-- 1 mpirun mpirun   543 Nov  2 00:23 server.pyc
+-rw-r--r-- 1 mpirun mpirun    24 Nov  2 00:23 server.pyi
+
+./.local/lib/python2.7/site-packages/mpi4py/include:
+total 4
+drwxr-xr-x 3 mpirun mpirun   20 Nov  2 00:23 .
+drwxr-xr-x 6 mpirun mpirun 4096 Nov  2 00:23 ..
+drwxr-xr-x 2 mpirun mpirun   97 Nov  2 00:23 mpi4py
+
+./.local/lib/python2.7/site-packages/mpi4py/include/mpi4py:
+total 44
+drwxr-xr-x 2 mpirun mpirun    97 Nov  2 00:23 .
+drwxr-xr-x 3 mpirun mpirun    20 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun    84 Nov  2 00:23 mpi.pxi
+-rw-r--r-- 1 mpirun mpirun  9043 Nov  2 00:23 mpi4py.MPI.h
+-rw-r--r-- 1 mpirun mpirun 17607 Nov  2 00:23 mpi4py.MPI_api.h
+-rw-r--r-- 1 mpirun mpirun   562 Nov  2 00:23 mpi4py.h
+-rw-r--r-- 1 mpirun mpirun  2282 Nov  2 00:23 mpi4py.i
+
+./.local/lib/python2.7/site-packages/mpi4py/lib-pmpi:
+total 52
+drwxr-xr-x 2 mpirun mpirun   79 Nov  2 00:23 .
+drwxr-xr-x 6 mpirun mpirun 4096 Nov  2 00:23 ..
+-rwxr-xr-x 1 mpirun mpirun 8464 Nov  2 00:23 libmpe.so
+-rwxr-xr-x 1 mpirun mpirun 8472 Nov  2 00:23 libvt-hyb.so
+-rwxr-xr-x 1 mpirun mpirun 8472 Nov  2 00:23 libvt-mpi.so
+-rwxr-xr-x 1 mpirun mpirun 8456 Nov  2 00:23 libvt.so
+
+./.local/lib/python2.7/site-packages/mpi4py/util:
+total 96
+drwxr-xr-x 2 mpirun mpirun   162 Nov  2 00:23 .
+drwxr-xr-x 6 mpirun mpirun  4096 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun    87 Nov  2 00:23 __init__.py
+-rw-r--r-- 1 mpirun mpirun   205 Nov  2 00:23 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun     8 Nov  2 00:23 __init__.pyi
+-rw-r--r-- 1 mpirun mpirun  9484 Nov  2 00:23 dtlib.py
+-rw-r--r-- 1 mpirun mpirun  7267 Nov  2 00:23 dtlib.pyc
+-rw-r--r-- 1 mpirun mpirun   172 Nov  2 00:23 dtlib.pyi
+-rw-r--r-- 1 mpirun mpirun 18274 Nov  2 00:23 pkl5.py
+-rw-r--r-- 1 mpirun mpirun 27187 Nov  2 00:23 pkl5.pyc
+-rw-r--r-- 1 mpirun mpirun  4391 Nov  2 00:23 pkl5.pyi
+
+./.local/lib/python2.7/site-packages/mpi4py-3.1.1.dist-info:
+total 32
+drwxr-xr-x 2 mpirun mpirun  123 Nov  2 00:23 .
+drwx------ 7 mpirun mpirun  171 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun    4 Nov  2 00:23 INSTALLER
+-rw-r--r-- 1 mpirun mpirun 1427 Nov  2 00:23 LICENSE.rst
+-rw-r--r-- 1 mpirun mpirun 5275 Nov  2 00:23 METADATA
+-rw-r--r-- 1 mpirun mpirun 4679 Nov  2 00:23 RECORD
+-rw-r--r-- 1 mpirun mpirun    0 Nov  2 00:23 REQUESTED
+-rw-r--r-- 1 mpirun mpirun  105 Nov  2 00:23 WHEEL
+-rw-r--r-- 1 mpirun mpirun    7 Nov  2 00:23 top_level.txt
+
+./.local/lib/python2.7/site-packages/pkg_resources:
+total 240
+drwxr-xr-x 4 mpirun mpirun    117 Nov  2 00:22 .
+drwx------ 7 mpirun mpirun    171 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun 108349 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun 124897 Nov  2 00:22 __init__.pyc
+drwxr-xr-x 3 mpirun mpirun    169 Nov  2 00:22 _vendor
+drwxr-xr-x 2 mpirun mpirun     45 Nov  2 00:22 extern
+-rw-r--r-- 1 mpirun mpirun    558 Nov  2 00:22 py31compat.py
+-rw-r--r-- 1 mpirun mpirun    788 Nov  2 00:22 py31compat.pyc
+
+./.local/lib/python2.7/site-packages/pkg_resources/_vendor:
+total 596
+drwxr-xr-x 3 mpirun mpirun    169 Nov  2 00:22 .
+drwxr-xr-x 4 mpirun mpirun    117 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun      0 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun    168 Nov  2 00:22 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun  24701 Nov  2 00:22 appdirs.py
+-rw-r--r-- 1 mpirun mpirun  23467 Nov  2 00:22 appdirs.pyc
+drwxr-xr-x 2 mpirun mpirun   4096 Nov  2 00:22 packaging
+-rw-r--r-- 1 mpirun mpirun 232055 Nov  2 00:22 pyparsing.py
+-rw-r--r-- 1 mpirun mpirun 243181 Nov  2 00:22 pyparsing.pyc
+-rw-r--r-- 1 mpirun mpirun  30098 Nov  2 00:22 six.py
+-rw-r--r-- 1 mpirun mpirun  33021 Nov  2 00:22 six.pyc
+
+./.local/lib/python2.7/site-packages/pkg_resources/_vendor/packaging:
+total 176
+drwxr-xr-x 2 mpirun mpirun  4096 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun   169 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun   720 Nov  2 00:22 __about__.py
+-rw-r--r-- 1 mpirun mpirun   807 Nov  2 00:22 __about__.pyc
+-rw-r--r-- 1 mpirun mpirun   513 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun   629 Nov  2 00:22 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   860 Nov  2 00:22 _compat.py
+-rw-r--r-- 1 mpirun mpirun  1316 Nov  2 00:22 _compat.pyc
+-rw-r--r-- 1 mpirun mpirun  1416 Nov  2 00:22 _structures.py
+-rw-r--r-- 1 mpirun mpirun  4551 Nov  2 00:22 _structures.pyc
+-rw-r--r-- 1 mpirun mpirun  8248 Nov  2 00:22 markers.py
+-rw-r--r-- 1 mpirun mpirun 12592 Nov  2 00:22 markers.pyc
+-rw-r--r-- 1 mpirun mpirun  4355 Nov  2 00:22 requirements.py
+-rw-r--r-- 1 mpirun mpirun  5332 Nov  2 00:22 requirements.pyc
+-rw-r--r-- 1 mpirun mpirun 28025 Nov  2 00:22 specifiers.py
+-rw-r--r-- 1 mpirun mpirun 26605 Nov  2 00:22 specifiers.pyc
+-rw-r--r-- 1 mpirun mpirun   421 Nov  2 00:22 utils.py
+-rw-r--r-- 1 mpirun mpirun   630 Nov  2 00:22 utils.pyc
+-rw-r--r-- 1 mpirun mpirun 11556 Nov  2 00:22 version.py
+-rw-r--r-- 1 mpirun mpirun 15324 Nov  2 00:22 version.pyc
+
+./.local/lib/python2.7/site-packages/pkg_resources/extern:
+total 8
+drwxr-xr-x 2 mpirun mpirun   45 Nov  2 00:22 .
+drwxr-xr-x 4 mpirun mpirun  117 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun 2498 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun 3052 Nov  2 00:22 __init__.pyc
+
+./.local/lib/python2.7/site-packages/setuptools:
+total 1096
+drwxr-xr-x 5 mpirun mpirun  4096 Nov  2 00:22 .
+drwx------ 7 mpirun mpirun   171 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun  7795 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun 10543 Nov  2 00:22 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   218 Nov  2 00:22 _deprecation_warning.py
+-rw-r--r-- 1 mpirun mpirun   612 Nov  2 00:22 _deprecation_warning.pyc
+-rw-r--r-- 1 mpirun mpirun  2223 Nov  2 00:22 _imp.py
+-rw-r--r-- 1 mpirun mpirun  2518 Nov  2 00:22 _imp.pyc
+drwxr-xr-x 3 mpirun mpirun   177 Nov  2 00:22 _vendor
+-rw-r--r-- 1 mpirun mpirun  6592 Nov  2 00:22 archive_util.py
+-rw-r--r-- 1 mpirun mpirun  6262 Nov  2 00:22 archive_util.pyc
+-rw-r--r-- 1 mpirun mpirun  9887 Nov  2 00:22 build_meta.py
+-rw-r--r-- 1 mpirun mpirun 10123 Nov  2 00:22 build_meta.pyc
+-rw-r--r-- 1 mpirun mpirun 65536 Nov  2 00:22 cli-32.exe
+-rw-r--r-- 1 mpirun mpirun 74752 Nov  2 00:22 cli-64.exe
+-rw-r--r-- 1 mpirun mpirun 65536 Nov  2 00:22 cli.exe
+drwxr-xr-x 2 mpirun mpirun  4096 Nov  2 00:22 command
+-rw-r--r-- 1 mpirun mpirun 20575 Nov  2 00:22 config.py
+-rw-r--r-- 1 mpirun mpirun 21338 Nov  2 00:22 config.pyc
+-rw-r--r-- 1 mpirun mpirun   935 Nov  2 00:22 dep_util.py
+-rw-r--r-- 1 mpirun mpirun   995 Nov  2 00:22 dep_util.pyc
+-rw-r--r-- 1 mpirun mpirun  5517 Nov  2 00:22 depends.py
+-rw-r--r-- 1 mpirun mpirun  6550 Nov  2 00:22 depends.pyc
+-rw-r--r-- 1 mpirun mpirun 49877 Nov  2 00:22 dist.py
+-rw-r--r-- 1 mpirun mpirun 49182 Nov  2 00:22 dist.pyc
+-rw-r--r-- 1 mpirun mpirun   524 Nov  2 00:22 errors.py
+-rw-r--r-- 1 mpirun mpirun   914 Nov  2 00:22 errors.pyc
+-rw-r--r-- 1 mpirun mpirun  1729 Nov  2 00:22 extension.py
+-rw-r--r-- 1 mpirun mpirun  2508 Nov  2 00:22 extension.pyc
+drwxr-xr-x 2 mpirun mpirun    45 Nov  2 00:22 extern
+-rw-r--r-- 1 mpirun mpirun  5084 Nov  2 00:22 glob.py
+-rw-r--r-- 1 mpirun mpirun  4882 Nov  2 00:22 glob.pyc
+-rw-r--r-- 1 mpirun mpirun 65536 Nov  2 00:22 gui-32.exe
+-rw-r--r-- 1 mpirun mpirun 75264 Nov  2 00:22 gui-64.exe
+-rw-r--r-- 1 mpirun mpirun 65536 Nov  2 00:22 gui.exe
+-rw-r--r-- 1 mpirun mpirun  5337 Nov  2 00:22 installer.py
+-rw-r--r-- 1 mpirun mpirun  5178 Nov  2 00:22 installer.pyc
+-rw-r--r-- 1 mpirun mpirun   787 Nov  2 00:22 launch.py
+-rw-r--r-- 1 mpirun mpirun  1030 Nov  2 00:22 launch.pyc
+-rw-r--r-- 1 mpirun mpirun  2013 Nov  2 00:22 lib2to3_ex.py
+-rw-r--r-- 1 mpirun mpirun  3139 Nov  2 00:22 lib2to3_ex.pyc
+-rw-r--r-- 1 mpirun mpirun  5264 Nov  2 00:22 monkey.py
+-rw-r--r-- 1 mpirun mpirun  5983 Nov  2 00:22 monkey.pyc
+-rw-r--r-- 1 mpirun mpirun 46751 Nov  2 00:22 msvc.py
+-rw-r--r-- 1 mpirun mpirun 46980 Nov  2 00:22 msvc.pyc
+-rw-r--r-- 1 mpirun mpirun  3199 Nov  2 00:22 namespaces.py
+-rw-r--r-- 1 mpirun mpirun  5213 Nov  2 00:22 namespaces.pyc
+-rw-r--r-- 1 mpirun mpirun 40605 Nov  2 00:22 package_index.py
+-rw-r--r-- 1 mpirun mpirun 41635 Nov  2 00:22 package_index.pyc
+-rw-r--r-- 1 mpirun mpirun  1496 Nov  2 00:22 py27compat.py
+-rw-r--r-- 1 mpirun mpirun  2464 Nov  2 00:22 py27compat.pyc
+-rw-r--r-- 1 mpirun mpirun   838 Nov  2 00:22 py31compat.py
+-rw-r--r-- 1 mpirun mpirun  1517 Nov  2 00:22 py31compat.pyc
+-rw-r--r-- 1 mpirun mpirun  1330 Nov  2 00:22 py33compat.py
+-rw-r--r-- 1 mpirun mpirun  1831 Nov  2 00:22 py33compat.pyc
+-rw-r--r-- 1 mpirun mpirun   245 Nov  2 00:22 py34compat.py
+-rw-r--r-- 1 mpirun mpirun   576 Nov  2 00:22 py34compat.pyc
+-rw-r--r-- 1 mpirun mpirun 14276 Nov  2 00:22 sandbox.py
+-rw-r--r-- 1 mpirun mpirun 19710 Nov  2 00:22 sandbox.pyc
+-rw-r--r-- 1 mpirun mpirun   218 Nov  2 00:22 script (dev).tmpl
+-rw-r--r-- 1 mpirun mpirun   138 Nov  2 00:22 script.tmpl
+-rw-r--r-- 1 mpirun mpirun  2302 Nov  2 00:22 site-patch.py
+-rw-r--r-- 1 mpirun mpirun  1769 Nov  2 00:22 site-patch.pyc
+-rw-r--r-- 1 mpirun mpirun  8493 Nov  2 00:22 ssl_support.py
+-rw-r--r-- 1 mpirun mpirun  8817 Nov  2 00:22 ssl_support.pyc
+-rw-r--r-- 1 mpirun mpirun   996 Nov  2 00:22 unicode_utils.py
+-rw-r--r-- 1 mpirun mpirun  1532 Nov  2 00:22 unicode_utils.pyc
+-rw-r--r-- 1 mpirun mpirun   144 Nov  2 00:22 version.py
+-rw-r--r-- 1 mpirun mpirun   337 Nov  2 00:22 version.pyc
+-rw-r--r-- 1 mpirun mpirun  8455 Nov  2 00:22 wheel.py
+-rw-r--r-- 1 mpirun mpirun  9567 Nov  2 00:22 wheel.pyc
+-rw-r--r-- 1 mpirun mpirun   714 Nov  2 00:22 windows_support.py
+-rw-r--r-- 1 mpirun mpirun  1334 Nov  2 00:22 windows_support.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/_vendor:
+total 584
+drwxr-xr-x 3 mpirun mpirun    177 Nov  2 00:22 .
+drwxr-xr-x 5 mpirun mpirun   4096 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun      0 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun    165 Nov  2 00:22 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun  15130 Nov  2 00:22 ordered_set.py
+-rw-r--r-- 1 mpirun mpirun  18673 Nov  2 00:22 ordered_set.pyc
+drwxr-xr-x 2 mpirun mpirun   4096 Nov  2 00:22 packaging
+-rw-r--r-- 1 mpirun mpirun 232055 Nov  2 00:22 pyparsing.py
+-rw-r--r-- 1 mpirun mpirun 241870 Nov  2 00:22 pyparsing.pyc
+-rw-r--r-- 1 mpirun mpirun  30098 Nov  2 00:22 six.py
+-rw-r--r-- 1 mpirun mpirun  32784 Nov  2 00:22 six.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/_vendor/packaging:
+total 212
+drwxr-xr-x 2 mpirun mpirun  4096 Nov  2 00:22 .
+drwxr-xr-x 3 mpirun mpirun   177 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun   744 Nov  2 00:22 __about__.py
+-rw-r--r-- 1 mpirun mpirun   816 Nov  2 00:22 __about__.pyc
+-rw-r--r-- 1 mpirun mpirun   562 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun   638 Nov  2 00:22 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun   865 Nov  2 00:22 _compat.py
+-rw-r--r-- 1 mpirun mpirun  1304 Nov  2 00:22 _compat.pyc
+-rw-r--r-- 1 mpirun mpirun  1416 Nov  2 00:22 _structures.py
+-rw-r--r-- 1 mpirun mpirun  4488 Nov  2 00:22 _structures.pyc
+-rw-r--r-- 1 mpirun mpirun  8268 Nov  2 00:22 markers.py
+-rw-r--r-- 1 mpirun mpirun 12533 Nov  2 00:22 markers.pyc
+-rw-r--r-- 1 mpirun mpirun  4742 Nov  2 00:22 requirements.py
+-rw-r--r-- 1 mpirun mpirun  5482 Nov  2 00:22 requirements.pyc
+-rw-r--r-- 1 mpirun mpirun 27778 Nov  2 00:22 specifiers.py
+-rw-r--r-- 1 mpirun mpirun 26364 Nov  2 00:22 specifiers.pyc
+-rw-r--r-- 1 mpirun mpirun 12933 Nov  2 00:22 tags.py
+-rw-r--r-- 1 mpirun mpirun 15382 Nov  2 00:22 tags.pyc
+-rw-r--r-- 1 mpirun mpirun  1520 Nov  2 00:22 utils.py
+-rw-r--r-- 1 mpirun mpirun  2018 Nov  2 00:22 utils.pyc
+-rw-r--r-- 1 mpirun mpirun 11978 Nov  2 00:22 version.py
+-rw-r--r-- 1 mpirun mpirun 17487 Nov  2 00:22 version.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/command:
+total 572
+drwxr-xr-x 2 mpirun mpirun  4096 Nov  2 00:22 .
+drwxr-xr-x 5 mpirun mpirun  4096 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun   568 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun   865 Nov  2 00:22 __init__.pyc
+-rw-r--r-- 1 mpirun mpirun  2426 Nov  2 00:22 alias.py
+-rw-r--r-- 1 mpirun mpirun  3203 Nov  2 00:22 alias.pyc
+-rw-r--r-- 1 mpirun mpirun 18185 Nov  2 00:22 bdist_egg.py
+-rw-r--r-- 1 mpirun mpirun 18784 Nov  2 00:22 bdist_egg.pyc
+-rw-r--r-- 1 mpirun mpirun  1508 Nov  2 00:22 bdist_rpm.py
+-rw-r--r-- 1 mpirun mpirun  1974 Nov  2 00:22 bdist_rpm.pyc
+-rw-r--r-- 1 mpirun mpirun   637 Nov  2 00:22 bdist_wininst.py
+-rw-r--r-- 1 mpirun mpirun  1251 Nov  2 00:22 bdist_wininst.pyc
+-rw-r--r-- 1 mpirun mpirun  4484 Nov  2 00:22 build_clib.py
+-rw-r--r-- 1 mpirun mpirun  2889 Nov  2 00:22 build_clib.pyc
+-rw-r--r-- 1 mpirun mpirun 13023 Nov  2 00:22 build_ext.py
+-rw-r--r-- 1 mpirun mpirun 12438 Nov  2 00:22 build_ext.pyc
+-rw-r--r-- 1 mpirun mpirun  9596 Nov  2 00:22 build_py.py
+-rw-r--r-- 1 mpirun mpirun 11027 Nov  2 00:22 build_py.pyc
+-rw-r--r-- 1 mpirun mpirun  8188 Nov  2 00:22 develop.py
+-rw-r--r-- 1 mpirun mpirun  8179 Nov  2 00:22 develop.pyc
+-rw-r--r-- 1 mpirun mpirun   960 Nov  2 00:22 dist_info.py
+-rw-r--r-- 1 mpirun mpirun  1874 Nov  2 00:22 dist_info.pyc
+-rw-r--r-- 1 mpirun mpirun 87548 Nov  2 00:22 easy_install.py
+-rw-r--r-- 1 mpirun mpirun 82932 Nov  2 00:22 easy_install.pyc
+-rw-r--r-- 1 mpirun mpirun 25574 Nov  2 00:22 egg_info.py
+-rw-r--r-- 1 mpirun mpirun 27584 Nov  2 00:22 egg_info.pyc
+-rw-r--r-- 1 mpirun mpirun  4705 Nov  2 00:22 install.py
+-rw-r--r-- 1 mpirun mpirun  5140 Nov  2 00:22 install.pyc
+-rw-r--r-- 1 mpirun mpirun  2203 Nov  2 00:22 install_egg_info.py
+-rw-r--r-- 1 mpirun mpirun  3305 Nov  2 00:22 install_egg_info.pyc
+-rw-r--r-- 1 mpirun mpirun  3862 Nov  2 00:22 install_lib.py
+-rw-r--r-- 1 mpirun mpirun  5071 Nov  2 00:22 install_lib.pyc
+-rw-r--r-- 1 mpirun mpirun  2439 Nov  2 00:22 install_scripts.py
+-rw-r--r-- 1 mpirun mpirun  2966 Nov  2 00:22 install_scripts.pyc
+-rw-r--r-- 1 mpirun mpirun   628 Nov  2 00:22 launcher manifest.xml
+-rw-r--r-- 1 mpirun mpirun  4986 Nov  2 00:22 py36compat.py
+-rw-r--r-- 1 mpirun mpirun  5730 Nov  2 00:22 py36compat.pyc
+-rw-r--r-- 1 mpirun mpirun   468 Nov  2 00:22 register.py
+-rw-r--r-- 1 mpirun mpirun  1043 Nov  2 00:22 register.pyc
+-rw-r--r-- 1 mpirun mpirun  2164 Nov  2 00:22 rotate.py
+-rw-r--r-- 1 mpirun mpirun  3111 Nov  2 00:22 rotate.pyc
+-rw-r--r-- 1 mpirun mpirun   658 Nov  2 00:22 saveopts.py
+-rw-r--r-- 1 mpirun mpirun  1174 Nov  2 00:22 saveopts.pyc
+-rw-r--r-- 1 mpirun mpirun  8092 Nov  2 00:22 sdist.py
+-rw-r--r-- 1 mpirun mpirun 10254 Nov  2 00:22 sdist.pyc
+-rw-r--r-- 1 mpirun mpirun  5085 Nov  2 00:22 setopt.py
+-rw-r--r-- 1 mpirun mpirun  6200 Nov  2 00:22 setopt.pyc
+-rw-r--r-- 1 mpirun mpirun  9610 Nov  2 00:22 test.py
+-rw-r--r-- 1 mpirun mpirun 11146 Nov  2 00:22 test.pyc
+-rw-r--r-- 1 mpirun mpirun   462 Nov  2 00:22 upload.py
+-rw-r--r-- 1 mpirun mpirun  1018 Nov  2 00:22 upload.pyc
+-rw-r--r-- 1 mpirun mpirun  7315 Nov  2 00:22 upload_docs.py
+-rw-r--r-- 1 mpirun mpirun  8007 Nov  2 00:22 upload_docs.pyc
+
+./.local/lib/python2.7/site-packages/setuptools/extern:
+total 12
+drwxr-xr-x 2 mpirun mpirun   45 Nov  2 00:22 .
+drwxr-xr-x 5 mpirun mpirun 4096 Nov  2 00:22 ..
+-rw-r--r-- 1 mpirun mpirun 2514 Nov  2 00:22 __init__.py
+-rw-r--r-- 1 mpirun mpirun 3050 Nov  2 00:22 __init__.pyc
+
+./.local/lib/python2.7/site-packages/setuptools-44.1.1.dist-info:
+total 48
+drwxr-xr-x 2 mpirun mpirun   187 Nov  2 00:22 .
+drwx------ 7 mpirun mpirun   171 Nov  2 00:23 ..
+-rw-r--r-- 1 mpirun mpirun     4 Nov  2 00:22 INSTALLER
+-rw-r--r-- 1 mpirun mpirun  1078 Nov  2 00:22 LICENSE
+-rw-r--r-- 1 mpirun mpirun  3704 Nov  2 00:22 METADATA
+-rw-r--r-- 1 mpirun mpirun 12510 Nov  2 00:22 RECORD
+-rw-r--r-- 1 mpirun mpirun     0 Nov  2 00:22 REQUESTED
+-rw-r--r-- 1 mpirun mpirun   110 Nov  2 00:22 WHEEL
+-rw-r--r-- 1 mpirun mpirun   239 Nov  2 00:22 dependency_links.txt
+-rw-r--r-- 1 mpirun mpirun  3206 Nov  2 00:22 entry_points.txt
+-rw-r--r-- 1 mpirun mpirun    38 Nov  2 00:22 top_level.txt
+-rw-r--r-- 1 mpirun mpirun     1 Nov  2 00:22 zip-safe
+
+./.openmpi:
+total 4
+drwxr-xr-x 1 mpirun mpirun 29 Nov  2 00:23 .
+drwxr-xr-x 1 mpirun mpirun 96 Nov  2 02:39 ..
+-rw-rw-r-- 1 mpirun mpirun 61 Nov  2 00:04 mca-params.conf
+
+./.rpmdb:
+total 472
+drwxr-xr-x 2 root   root     4096 Nov  2 00:57 .
+drwxr-xr-x 1 mpirun mpirun     96 Nov  2 02:39 ..
+-rw-r--r-- 1 root   root        0 Nov  2 00:57 .dbenv.lock
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Basenames
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Conflictname
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Dirnames
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Enhancename
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Filetriggername
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Group
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Installtid
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Name
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Obsoletename
+-rw-r--r-- 1 root   root    12288 Nov  2 00:57 Packages
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Providename
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Recommendname
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Requirename
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Sha1header
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Sigmd5
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Suggestname
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Supplementname
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Transfiletriggername
+-rw-r--r-- 1 root   root     8192 Nov  2 00:57 Triggername
+-rw-r--r-- 1 root   root   270335 Nov  2 01:04 __db.001
+-rw-r--r-- 1 root   root    73727 Nov  2 01:04 __db.002
+-rw-r--r-- 1 root   root   266239 Nov  2 01:04 __db.003
+
+./.ssh:
+total 20
+drwxr-xr-x 1 mpirun mpirun   25 Nov  2 02:27 .
+drwxr-xr-x 1 mpirun mpirun   96 Nov  2 02:39 ..
+-rw------- 1 mpirun mpirun  396 Nov  2 00:04 authorized_keys
+-rw------- 1 mpirun mpirun   25 Nov  2 00:04 config
+-rw------- 1 mpirun mpirun 1675 Nov  2 00:04 id_rsa
+-rw------- 1 mpirun mpirun  396 Nov  2 00:04 id_rsa.pub
+-rw-r--r-- 1 mpirun mpirun  444 Nov  2 02:27 known_hosts
+
+./hpc.docker:
+total 16
+drwxrwxr-x 5 mpirun mpirun  139 Nov  2 01:07 .
+drwxr-xr-x 1 mpirun mpirun   96 Nov  2 02:39 ..
+drwxrwxr-x 8 mpirun mpirun  163 Nov  2 01:07 .git
+-rw-rw-r-- 1 mpirun mpirun 2323 Nov  2 01:07 Dockerfile
+-rw-rw-r-- 1 mpirun mpirun 2184 Nov  2 01:07 README.md
+drwxrwxr-x 6 mpirun mpirun   75 Nov  2 02:29 compartido
+-rw-rw-r-- 1 mpirun mpirun   61 Nov  2 01:07 default-mca-params.conf
+-rw-rw-r-- 1 mpirun mpirun  195 Nov  2 01:07 docker-compose.yml
+drwxrwxr-x 2 mpirun mpirun   60 Nov  2 01:07 ssh
+
+./hpc.docker/.git:
+total 24
+drwxrwxr-x  8 mpirun mpirun  163 Nov  2 01:07 .
+drwxrwxr-x  5 mpirun mpirun  139 Nov  2 01:07 ..
+-rw-rw-r--  1 mpirun mpirun   21 Nov  2 01:07 HEAD
+drwxrwxr-x  2 mpirun mpirun    6 Nov  2 01:07 branches
+-rw-rw-r--  1 mpirun mpirun  262 Nov  2 01:07 config
+-rw-rw-r--  1 mpirun mpirun   73 Nov  2 01:07 description
+drwxrwxr-x  2 mpirun mpirun  301 Nov  2 01:07 hooks
+-rw-rw-r--  1 mpirun mpirun 1771 Nov  2 01:07 index
+drwxrwxr-x  2 mpirun mpirun   21 Nov  2 01:07 info
+drwxrwxr-x  3 mpirun mpirun   30 Nov  2 01:07 logs
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 objects
+-rw-rw-r--  1 mpirun mpirun  112 Nov  2 01:07 packed-refs
+drwxrwxr-x  5 mpirun mpirun   46 Nov  2 01:07 refs
+
+./hpc.docker/.git/branches:
+total 0
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 .
+drwxrwxr-x 8 mpirun mpirun 163 Nov  2 01:07 ..
+
+./hpc.docker/.git/hooks:
+total 48
+drwxrwxr-x 2 mpirun mpirun  301 Nov  2 01:07 .
+drwxrwxr-x 8 mpirun mpirun  163 Nov  2 01:07 ..
+-rwxrwxr-x 1 mpirun mpirun  478 Nov  2 01:07 applypatch-msg.sample
+-rwxrwxr-x 1 mpirun mpirun  896 Nov  2 01:07 commit-msg.sample
+-rwxrwxr-x 1 mpirun mpirun 3327 Nov  2 01:07 fsmonitor-watchman.sample
+-rwxrwxr-x 1 mpirun mpirun  189 Nov  2 01:07 post-update.sample
+-rwxrwxr-x 1 mpirun mpirun  424 Nov  2 01:07 pre-applypatch.sample
+-rwxrwxr-x 1 mpirun mpirun 1642 Nov  2 01:07 pre-commit.sample
+-rwxrwxr-x 1 mpirun mpirun 1348 Nov  2 01:07 pre-push.sample
+-rwxrwxr-x 1 mpirun mpirun 4898 Nov  2 01:07 pre-rebase.sample
+-rwxrwxr-x 1 mpirun mpirun  544 Nov  2 01:07 pre-receive.sample
+-rwxrwxr-x 1 mpirun mpirun 1492 Nov  2 01:07 prepare-commit-msg.sample
+-rwxrwxr-x 1 mpirun mpirun 3610 Nov  2 01:07 update.sample
+
+./hpc.docker/.git/info:
+total 4
+drwxrwxr-x 2 mpirun mpirun  21 Nov  2 01:07 .
+drwxrwxr-x 8 mpirun mpirun 163 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 240 Nov  2 01:07 exclude
+
+./hpc.docker/.git/logs:
+total 4
+drwxrwxr-x 3 mpirun mpirun  30 Nov  2 01:07 .
+drwxrwxr-x 8 mpirun mpirun 163 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 189 Nov  2 01:07 HEAD
+drwxrwxr-x 4 mpirun mpirun  34 Nov  2 01:07 refs
+
+./hpc.docker/.git/logs/refs:
+total 0
+drwxrwxr-x 4 mpirun mpirun 34 Nov  2 01:07 .
+drwxrwxr-x 3 mpirun mpirun 30 Nov  2 01:07 ..
+drwxrwxr-x 2 mpirun mpirun 18 Nov  2 01:07 heads
+drwxrwxr-x 3 mpirun mpirun 20 Nov  2 01:07 remotes
+
+./hpc.docker/.git/logs/refs/heads:
+total 4
+drwxrwxr-x 2 mpirun mpirun  18 Nov  2 01:07 .
+drwxrwxr-x 4 mpirun mpirun  34 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 189 Nov  2 01:07 main
+
+./hpc.docker/.git/logs/refs/remotes:
+total 0
+drwxrwxr-x 3 mpirun mpirun 20 Nov  2 01:07 .
+drwxrwxr-x 4 mpirun mpirun 34 Nov  2 01:07 ..
+drwxrwxr-x 2 mpirun mpirun 18 Nov  2 01:07 origin
+
+./hpc.docker/.git/logs/refs/remotes/origin:
+total 4
+drwxrwxr-x 2 mpirun mpirun  18 Nov  2 01:07 .
+drwxrwxr-x 3 mpirun mpirun  20 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 189 Nov  2 01:07 HEAD
+
+./hpc.docker/.git/objects:
+total 4
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 .
+drwxrwxr-x  8 mpirun mpirun  163 Nov  2 01:07 ..
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 02
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 0c
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 19
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 2e
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 31
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 43
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 4f
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 52
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 53
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 77
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 7a
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 7c
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 83
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 89
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 8b
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 9e
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 a4
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 a9
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 ac
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 b5
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 b6
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 b9
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 bb
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 be
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 c4
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 c9
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 d0
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 d1
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 e8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 ed
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 f6
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 fb
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 fc
+drwxrwxr-x  2 mpirun mpirun    6 Nov  2 01:07 info
+drwxrwxr-x  2 mpirun mpirun    6 Nov  2 01:07 pack
+
+./hpc.docker/.git/objects/02:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun 1114 Nov  2 01:07 e594cb882538f65c25ed2c380a0bd710825ac4
+
+./hpc.docker/.git/objects/0c:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   33 Nov  2 01:07 7e9ac7f3f37fa095e4a9cabf01db5b9d4ef739
+
+./hpc.docker/.git/objects/19:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  145 Nov  2 01:07 c34fd4967c62013bf0051cfd7a61135f31c299
+
+./hpc.docker/.git/objects/2e:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  545 Nov  2 01:07 1e4f08c6f6f1a2f68292b9838991133bfec6ad
+
+./hpc.docker/.git/objects/31:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  325 Nov  2 01:07 eae31e756eb656b11dd6454ec0415d7b29b8a3
+
+./hpc.docker/.git/objects/43:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   54 Nov  2 01:07 d38448297800a4946ca8c1bbcca7c995e92219
+
+./hpc.docker/.git/objects/4f:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   74 Nov  2 01:07 d36b0c439fd2c9669bff7b38b1e013cfbd54d0
+
+./hpc.docker/.git/objects/52:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  545 Nov  2 01:07 c9a4b3594c8ae3cf9fc8093314ffb67ca35b89
+
+./hpc.docker/.git/objects/53:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  234 Nov  2 01:07 c9deffdaf63d01e9c1af3da3a95c1239725e99
+
+./hpc.docker/.git/objects/77:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  264 Nov  2 01:07 45e620b7e107219135b7ec33ed451f14941510
+
+./hpc.docker/.git/objects/7a:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  115 Nov  2 01:07 65e3379a813f1f2f61ace40974579a9e54fc88
+
+./hpc.docker/.git/objects/7c:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  437 Nov  2 01:07 99b30446d01e162abc012dd4ce057ad8a96a53
+
+./hpc.docker/.git/objects/83:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  175 Nov  2 01:07 6f34cea05e70411c8bf9248730589270317750
+
+./hpc.docker/.git/objects/89:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   84 Nov  2 01:07 e35ac93950a2589aaad5d20a1f6906d97fe1a4
+
+./hpc.docker/.git/objects/8b:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  107 Nov  2 01:07 75047863b31fdd8e88c08ca8fd602fc25c6158
+
+./hpc.docker/.git/objects/9e:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  343 Nov  2 01:07 89352db9a1b36941fcd4a686fec4c15910fdff
+
+./hpc.docker/.git/objects/a4:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  121 Nov  2 01:07 feea5308fdd581ad0454953467312893b63c46
+
+./hpc.docker/.git/objects/a9:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   41 Nov  2 01:07 ecad07c39e4a9d6f0572d6cbf77795d99681f2
+
+./hpc.docker/.git/objects/ac:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  880 Nov  2 01:07 b8534c3a1582b55297edefef8d581a197b8d4a
+
+./hpc.docker/.git/objects/b5:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   54 Nov  2 01:07 4786fd18c5e2ac762b022c97a8409951721d4a
+
+./hpc.docker/.git/objects/b6:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  267 Nov  2 01:07 7225c74f557b1c074d4269859bd0a9437317f1
+
+./hpc.docker/.git/objects/b9:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   83 Nov  2 01:07 f0782edcd6ce06d3f2917d1b47eaef2744c21f
+
+./hpc.docker/.git/objects/bb:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  511 Nov  2 01:07 763126e031cd6973a68af4ca4d7fe69a46a582
+
+./hpc.docker/.git/objects/be:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  235 Nov  2 01:07 e031ab5ef9ffa9160765254e115d1edd1e8760
+
+./hpc.docker/.git/objects/c4:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun 1115 Nov  2 01:07 9e7102b3ccb8fbf075686e09ca8ac38aa5b3fc
+
+./hpc.docker/.git/objects/c9:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  419 Nov  2 01:07 66a3911707448564856aee21df26b1e3047085
+
+./hpc.docker/.git/objects/d0:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun   62 Nov  2 01:07 cbed954d7499d216fdeaa6e3a2ddeb46be30dc
+
+./hpc.docker/.git/objects/d1:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  488 Nov  2 01:07 00403aecb60b68bb4b41fb096997c7a0521abf
+
+./hpc.docker/.git/objects/e8:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  945 Nov  2 01:07 8787d63a43ccea56bc67708c74108f65005a67
+
+./hpc.docker/.git/objects/ed:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun 1121 Nov  2 01:07 bf1df586068a0c6c6728876733e0b2f5e924b2
+
+./hpc.docker/.git/objects/f6:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun 1298 Nov  2 01:07 79971bb43e72ec2a143a63940cbba56c4883ca
+
+./hpc.docker/.git/objects/fb:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  278 Nov  2 01:07 df08ef04cdaac4f1151e60312252abde7a677b
+
+./hpc.docker/.git/objects/fc:
+total 8
+drwxrwxr-x  2 mpirun mpirun   52 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+-r--r--r--  1 mpirun mpirun  551 Nov  2 01:07 b435006b9e62567c923790c9232df98b78fc1c
+
+./hpc.docker/.git/objects/info:
+total 4
+drwxrwxr-x  2 mpirun mpirun    6 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+
+./hpc.docker/.git/objects/pack:
+total 4
+drwxrwxr-x  2 mpirun mpirun    6 Nov  2 01:07 .
+drwxrwxr-x 37 mpirun mpirun 4096 Nov  2 01:07 ..
+
+./hpc.docker/.git/refs:
+total 0
+drwxrwxr-x 5 mpirun mpirun  46 Nov  2 01:07 .
+drwxrwxr-x 8 mpirun mpirun 163 Nov  2 01:07 ..
+drwxrwxr-x 2 mpirun mpirun  18 Nov  2 01:07 heads
+drwxrwxr-x 3 mpirun mpirun  20 Nov  2 01:07 remotes
+drwxrwxr-x 2 mpirun mpirun   6 Nov  2 01:07 tags
+
+./hpc.docker/.git/refs/heads:
+total 4
+drwxrwxr-x 2 mpirun mpirun 18 Nov  2 01:07 .
+drwxrwxr-x 5 mpirun mpirun 46 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 41 Nov  2 01:07 main
+
+./hpc.docker/.git/refs/remotes:
+total 0
+drwxrwxr-x 3 mpirun mpirun 20 Nov  2 01:07 .
+drwxrwxr-x 5 mpirun mpirun 46 Nov  2 01:07 ..
+drwxrwxr-x 2 mpirun mpirun 18 Nov  2 01:07 origin
+
+./hpc.docker/.git/refs/remotes/origin:
+total 4
+drwxrwxr-x 2 mpirun mpirun 18 Nov  2 01:07 .
+drwxrwxr-x 3 mpirun mpirun 20 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun 30 Nov  2 01:07 HEAD
+
+./hpc.docker/.git/refs/tags:
+total 0
+drwxrwxr-x 2 mpirun mpirun  6 Nov  2 01:07 .
+drwxrwxr-x 5 mpirun mpirun 46 Nov  2 01:07 ..
+
+./hpc.docker/compartido:
+total 4
+drwxrwxr-x 6 mpirun mpirun  75 Nov  2 02:29 .
+drwxrwxr-x 5 mpirun mpirun 139 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun  33 Nov  2 01:07 hostfile
+drwxrwxr-x 2 mpirun mpirun  82 Nov  2 02:35 mpi
+drwxrwxr-x 2 mpirun mpirun  75 Nov  2 02:02 openmp
+drwxrwxr-x 2 mpirun mpirun  31 Nov  2 01:07 python
+drwxrwxr-x 2 mpirun mpirun 192 Nov  2 02:30 serial
+
+./hpc.docker/compartido/mpi:
+total 44
+drwxrwxr-x 2 mpirun mpirun    82 Nov  2 02:35 .
+drwxrwxr-x 6 mpirun mpirun    75 Nov  2 02:29 ..
+-rw-rw-r-- 1 mpirun mpirun    33 Nov  2 02:30 hostfile
+-rw-rw-r-- 1 mpirun mpirun  2862 Nov  2 01:07 mpi-mm.c
+-rwxrwxr-x 1 mpirun mpirun 12832 Nov  2 02:22 pi-mpi
+-rwxrwxr-x 1 mpirun mpirun 12832 Nov  2 02:35 pi_mpi
+-rw-rw-r-- 1 mpirun mpirun   666 Nov  2 01:07 pi_mpi.c
+
+./hpc.docker/compartido/openmp:
+total 36
+drwxrwxr-x 2 mpirun mpirun    75 Nov  2 02:02 .
+drwxrwxr-x 6 mpirun mpirun    75 Nov  2 02:29 ..
+-rwxrwxr-x 1 mpirun mpirun  8912 Nov  2 02:02 open-rzf
+-rwxrwxr-x 1 mpirun mpirun 13168 Nov  2 01:28 openmp
+-rw-rw-r-- 1 mpirun mpirun   954 Nov  2 01:07 openmp-mm.c
+-rw-rw-r-- 1 mpirun mpirun   400 Nov  2 01:07 openmp-rzf.c
+
+./hpc.docker/compartido/python:
+total 4
+drwxrwxr-x 2 mpirun mpirun  31 Nov  2 01:07 .
+drwxrwxr-x 6 mpirun mpirun  75 Nov  2 02:29 ..
+-rw-rw-r-- 1 mpirun mpirun 120 Nov  2 01:07 helloWorld_MPI.py
+
+./hpc.docker/compartido/serial:
+total 88
+drwxrwxr-x 2 mpirun mpirun   192 Nov  2 02:30 .
+drwxrwxr-x 6 mpirun mpirun    75 Nov  2 02:29 ..
+-rw-rw-r-- 1 mpirun mpirun    33 Nov  2 02:30 hostfile
+-rwxrwxr-x 1 mpirun mpirun  8544 Nov  2 01:57 pi_serial
+-rw-rw-r-- 1 mpirun mpirun   339 Nov  2 01:07 pi_serial.c
+-rwxrwxr-x 1 mpirun mpirun 12816 Nov  2 02:17 serial-mm
+-rw-rw-r-- 1 mpirun mpirun   703 Nov  2 01:07 serial-mm.c
+-rwxrwxr-x 1 mpirun mpirun  8672 Nov  2 01:57 serial-rzf
+-rw-rw-r-- 1 mpirun mpirun   409 Nov  2 01:07 serial-rzf.c
+-rwxrwxr-x 1 mpirun mpirun  8712 Nov  2 01:57 serial-vecsum
+-rw-rw-r-- 1 mpirun mpirun   580 Nov  2 01:07 serial-vecsum.c
+-rwxrwxr-x 1 mpirun mpirun 12816 Nov  2 01:34 serialmm
+
+./hpc.docker/ssh:
+total 12
+drwxrwxr-x 2 mpirun mpirun   60 Nov  2 01:07 .
+drwxrwxr-x 5 mpirun mpirun  139 Nov  2 01:07 ..
+-rw-rw-r-- 1 mpirun mpirun   25 Nov  2 01:07 config
+-rw-rw-r-- 1 mpirun mpirun 1675 Nov  2 01:07 id_rsa.mpi
+-rw-rw-r-- 1 mpirun mpirun  396 Nov  2 01:07 id_rsa.mpi.pub
